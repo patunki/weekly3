@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">weekly3</string>
+    <string name="body_mass_index_is">"Body mass index is %s"</string>
+    <string name="body_mass_index">Body mass index</string>
+    <string name="height">Username</string>
+    <string name="weight">Password</string>
+    <string name="greeting">Bmi calculator</string>
+</resources>
